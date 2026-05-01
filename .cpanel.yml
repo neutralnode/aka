@@ -1,4 +1,5 @@
 ---
 deployment:
   tasks:
-    - echo "Deployed successfully"
+    - export DEPLOYPATH=/home2/sc1bvin7781/vpn-africa.com/
+    - /bin/cp -R * $DEPLOYPATH
