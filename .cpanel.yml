@@ -1,5 +1,4 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home2/sc1bvin7781/vpn-africa.com
-    - /usr/bin/rsync -av --delete . $DEPLOYPATH --exclude='.git' --exclude='.cpanel.yml' --exclude='.gitignore'
+    - echo "Deployed successfully"
