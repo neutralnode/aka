@@ -91,7 +91,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vpn-africa.com/fr/vpn-benin-cap-vert/</loc>
+    <loc>https://vpn-africa.com/fr/vpn-benin/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vpn-africa.com/fr/vpn-burkina-faso/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -109,13 +115,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://vpn-africa.com/fr/vpn-cap-vert/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://vpn-africa.com/fr/vpn-censure-afrique/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vpn-africa.com/fr/vpn-congo-rca/</loc>
+    <loc>https://vpn-africa.com/fr/vpn-congo-brazzaville/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -205,13 +217,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vpn-africa.com/fr/vpn-niger-burkina/</loc>
+    <loc>https://vpn-africa.com/fr/vpn-niger/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vpn-africa.com/fr/vpn-pas-cher-afrique/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vpn-africa.com/fr/vpn-rca/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -577,7 +595,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vpn-africa.com/vpn-zimbabwe-zambia/</loc>
+    <loc>https://vpn-africa.com/vpn-zambia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vpn-africa.com/vpn-zimbabwe/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
