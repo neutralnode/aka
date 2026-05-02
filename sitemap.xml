@@ -139,12 +139,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vpn-africa.com/fr/vpn-gabon-togo-mali/</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://vpn-africa.com/fr/vpn-gabon/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -176,6 +170,12 @@
   </url>
   <url>
     <loc>https://vpn-africa.com/fr/vpn-legal-afrique/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vpn-africa.com/fr/vpn-mali/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -343,6 +343,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://vpn-africa.com/vpn-comoros/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://vpn-africa.com/vpn-djibouti/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -356,6 +362,12 @@
   </url>
   <url>
     <loc>https://vpn-africa.com/vpn-eritrea/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vpn-africa.com/vpn-eswatini/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -397,7 +409,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vpn-africa.com/vpn-lesotho-eswatini-seychelles/</loc>
+    <loc>https://vpn-africa.com/vpn-lesotho/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -409,13 +421,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vpn-africa.com/vpn-madagascar-mauritius/</loc>
+    <loc>https://vpn-africa.com/vpn-madagascar/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vpn-africa.com/vpn-malawi/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vpn-africa.com/vpn-mauritius/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -452,6 +470,12 @@
   </url>
   <url>
     <loc>https://vpn-africa.com/vpn-rwanda/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vpn-africa.com/vpn-seychelles/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
