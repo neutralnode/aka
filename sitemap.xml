@@ -403,7 +403,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vpn-africa.com/vpn-gambia-liberia-sierra-leone/</loc>
+    <loc>https://vpn-africa.com/vpn-gambia/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -434,6 +434,12 @@
   </url>
   <url>
     <loc>https://vpn-africa.com/vpn-lesotho/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vpn-africa.com/vpn-liberia/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -512,6 +518,12 @@
   </url>
   <url>
     <loc>https://vpn-africa.com/vpn-seychelles/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vpn-africa.com/vpn-sierra-leone/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
